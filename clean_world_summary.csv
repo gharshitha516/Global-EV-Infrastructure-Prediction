@@ -1,0 +1,123 @@
+country_code,country,count,max_power_kw_max
+US,United States,83821,600.0
+GB,United Kingdom,27437,560.0
+DE,Germany,24465,400.0
+CA,Canada,18203,400.0
+ES,Spain,17864,1000.0
+FR,France,13837,400.0
+IT,Italy,10376,500.0
+NL,Netherlands,8111,501.0
+SE,Sweden,4962,500.0
+NO,Norway,4794,350.0
+PT,Portugal,3713,1000.0
+RU,Russian Federation,2212,320.0
+DK,Denmark,2179,400.0
+IE,Ireland,2008,400.0
+FI,Finland,1880,400.0
+JP,Japan,1644,250.0
+TR,Turkey,1293,480.0
+AT,Austria,1285,350.0
+BE,Belgium,1250,400.0
+AU,Australia,1243,400.0
+IN,India,1192,1000000.0
+NZ,New Zealand,981,300.0
+LT,Lithuania,962,400.0
+IS,Iceland,931,250.0
+CH,Switzerland,878,350.0
+HU,Hungary,869,360.0
+RO,Romania,720,300.0
+BR,Brazil,650,360.0
+MY,Malaysia,616,640.0
+MX,Mexico,580,990.0
+UA,Ukraine,565,360.0
+CZ,Czech Republic,561,400.0
+PL,Poland,463,350.0
+EG,Egypt,460,160.0
+ID,Indonesia,413,200.0
+DO,Dominican Republic,368,225.0
+IL,Israel,297,360.0
+GR,Greece,279,300.0
+HR,Croatia,268,400.0
+SK,Slovakia,254,350.0
+HK,Hong Kong,224,120.0
+SI,Slovenia,185,350.0
+CL,Chile,180,180.0
+CR,Costa Rica,173,180.0
+EE,Estonia,170,350.0
+TW,"Taiwan, Province Of China",164,360.0
+KR,"Korea, Republic Of",161,250.0
+ZA,South Africa,159,200.0
+MA,Morocco,154,180.0
+UY,Uruguay,140,300.0
+AE,United Arab Emirates,132,250.0
+RS,Serbia,109,350.0
+AD,Andorra,96,300.0
+CY,Cyprus,91,150.0
+LU,Luxembourg,90,400.0
+JO,Jordan,88,200.0
+LV,Latvia,83,350.0
+CO,Colombia,61,150.0
+BG,Bulgaria,59,360.0
+IM,Isle Of Man,58,75.0
+LK,Sri Lanka,58,50.0
+GE,Georgia,56,120.0
+MT,Malta,55,45.0
+PY,Paraguay,47,120.0
+BA,Bosnia And Herzegovina,40,160.0
+BY,Belarus,40,150.0
+MC,Monaco,37,160.0
+MD,"Moldova, Republic Of",34,150.0
+JM,Jamaica,34,150.0
+ME,Montenegro,32,80.0
+JE,Jersey,29,150.0
+TH,Thailand,28,120.0
+TN,Tunisia,25,150.0
+SM,San Marino,25,22.0
+AR,Argentina,22,160.0
+OM,Oman,22,180.0
+KH,Cambodia,22,120.0
+EC,Ecuador,21,40.0
+PH,Philippines,16,250.0
+AL,Albania,15,180.0
+XK,Kosovo,15,300.0
+GG,Guernsey,15,25.0
+MK,Macedonia,12,160.0
+KE,Kenya,12,22.0
+CN,China,12,120.0
+SG,Singapore,9,50.0
+RE,Reunion,8,100.0
+LI,Liechtenstein,8,120.0
+PE,Peru,7,10.0
+GI,Gibraltar,7,120.0
+PA,Panama,6,50.0
+FO,Faroe Islands,5,50.0
+PR,Puerto Rico,4,72.0
+VN,Viet Nam,4,22.0
+AM,Armenia,4,150.0
+QA,Qatar,4,250.0
+PK,Pakistan,3,22.0
+PS,"Palestinian Territory, Occupied",3,60.0
+TT,Trinidad And Tobago,3,60.0
+AX,Aland Islands,3,50.0
+GH,Ghana,3,11.0
+SA,Saudi Arabia,3,22.0
+KZ,Kazakhstan,3,120.0
+AZ,Azerbaijan,2,60.0
+IQ,Iraq,2,120.0
+RW,Rwanda,2,50.0
+MO,Macao,2,120.0
+MM,Myanmar,1,1000.0
+UG,Uganda,1,50.0
+GT,Guatemala,1,
+NP,Nepal,1,30.0
+UZ,Uzbekistan,1,
+AF,Afghanistan,1,22.0
+KG,Kyrgyzstan,1,40.0
+ET,Ethiopia,1,22.0
+,Namibia,1,11.0
+BW,Botswana,1,22.0
+BH,Bahrain,1,22.0
+BB,Barbados,1,
+SZ,Swaziland,1,11.0
+LC,Saint Lucia,1,7.0
+SJ,Svalbard And Jan Mayen,1,
